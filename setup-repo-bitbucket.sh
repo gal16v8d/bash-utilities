@@ -46,7 +46,6 @@ git clone git@bitbucket.org:gal16v8d/property-util.git
 git clone git@bitbucket.org:gal16v8d/qr-app.git
 git clone git@bitbucket.org:gal16v8d/rabbitmq.git
 git clone git@bitbucket.org:gal16v8d/redis.git
-git clone git@bitbucket.org:gal16v8d/sicbo.git
 git clone git@bitbucket.org:gal16v8d/sort.git
 git clone git@bitbucket.org:gal16v8d/test-process.git
 git clone git@bitbucket.org:gal16v8d/thorntail-demo.git
