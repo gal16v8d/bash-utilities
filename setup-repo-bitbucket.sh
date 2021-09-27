@@ -17,6 +17,7 @@ git clone git@bitbucket.org:gal16v8d/demomongo.git
 git clone git@bitbucket.org:gal16v8d/devdockervaadin.git
 git clone git@bitbucket.org:gal16v8d/docker-config-util.git
 git clone git@bitbucket.org:gal16v8d/dw2-svc.git
+git clone git@bitbucket.org:gal16v8d/dw2-hateoas-svc.git
 git clone git@bitbucket.org:gal16v8d/earthquake-svc.git
 git clone git@bitbucket.org:gal16v8d/eureka-server.git
 git clone git@bitbucket.org:gal16v8d/exception-util.git
