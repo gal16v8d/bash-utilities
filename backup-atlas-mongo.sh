@@ -1,0 +1,1 @@
+mongodump --forceTableScan --uri mongodb+srv://<USER>:<PASSWORD>@<CLUSTER-URI>/<DATABASE> 
