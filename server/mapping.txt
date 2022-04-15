@@ -1,0 +1,16 @@
+|         app         |     port     | 
+  admin-server              8763
+  bdconocimiento            8098
+  cloud-rest-client         8090
+  config-server             8888
+  demomongo                 8091
+  devdockervaadin           8097
+  dw2-hateoas-svc           8094
+  dw2-svc                   8094
+  earthquake-svc            8092
+  eureka-server             8761
+  fx-course-app             8093
+  gateway-svc               8762
+  key-manager-svc           8095
+  parqueadero               8099
+  youtubebot                8096

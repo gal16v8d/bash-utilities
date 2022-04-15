@@ -17,8 +17,8 @@ git clone git@bitbucket.org:gal16v8d/devdockervaadin.git
 git clone git@bitbucket.org:gal16v8d/docker-config-util.git
 git clone git@bitbucket.org:gal16v8d/dw1-svc.git
 git clone git@bitbucket.org:gal16v8d/dw1-ui.git
-git clone git@bitbucket.org:gal16v8d/dw2-svc.git
 git clone git@bitbucket.org:gal16v8d/dw2-hateoas-svc.git
+git clone git@bitbucket.org:gal16v8d/dw2-svc.git
 git clone git@bitbucket.org:gal16v8d/earthquake-svc.git
 git clone git@bitbucket.org:gal16v8d/eureka-server.git
 git clone git@bitbucket.org:gal16v8d/exception-util.git
@@ -48,9 +48,11 @@ git clone git@bitbucket.org:gal16v8d/property-util.git
 git clone git@bitbucket.org:gal16v8d/qr-app.git
 git clone git@bitbucket.org:gal16v8d/rabbitmq.git
 git clone git@bitbucket.org:gal16v8d/redis.git
+git clone git@bitbucket.org:gal16v8d/selenium-bot.git
 git clone git@bitbucket.org:gal16v8d/sort.git
 git clone git@bitbucket.org:gal16v8d/test-process.git
 git clone git@bitbucket.org:gal16v8d/thorntail-demo.git
 git clone git@bitbucket.org:gal16v8d/validator-util.git
 git clone git@bitbucket.org:gal16v8d/videoplayer.git
+git clone git@bitbucket.org:gal16v8d/youtube-bot.git
 git clone git@bitbucket.org:gal16v8d/xls-util.git
