@@ -14,6 +14,7 @@ git clone git@bitbucket.org:gal16v8d/cypher-util.git
 git clone git@bitbucket.org:gal16v8d/db-util.git
 git clone git@bitbucket.org:gal16v8d/demomongo.git
 git clone git@bitbucket.org:gal16v8d/devdockervaadin.git
+git clone git@bitbucket.org:gal16v8d/django-react.git
 git clone git@bitbucket.org:gal16v8d/docker-config-util.git
 git clone git@bitbucket.org:gal16v8d/dw1-svc.git
 git clone git@bitbucket.org:gal16v8d/dw1-ui.git
@@ -49,6 +50,7 @@ git clone git@bitbucket.org:gal16v8d/qr-app.git
 git clone git@bitbucket.org:gal16v8d/rabbitmq.git
 git clone git@bitbucket.org:gal16v8d/redis.git
 git clone git@bitbucket.org:gal16v8d/selenium-bot.git
+git clone git@bitbucket.org:gal16v8d/serenity-bdd.git
 git clone git@bitbucket.org:gal16v8d/sort.git
 git clone git@bitbucket.org:gal16v8d/test-process.git
 git clone git@bitbucket.org:gal16v8d/thorntail-demo.git

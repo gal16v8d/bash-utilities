@@ -5,12 +5,22 @@
   config-server             8888
   demomongo                 8091
   devdockervaadin           8097
+  django-react              8000
+  dw1-svc                   8100
+  dw1-ui                    3000
   dw2-hateoas-svc           8094
   dw2-svc                   8094
   earthquake-svc            8092
   eureka-server             8761
+  j2ee                      8080
+  jeeservice                8080
+  fruit-app                 5000
   fx-course-app             8093
   gateway-svc               8762
   key-manager-svc           8095
+  key-manager-react         3000
+  nestjs-sample             3000
   parqueadero               8099
+  testmvc                   8080
+  thorntail-demomongo       8080
   youtubebot                8096
