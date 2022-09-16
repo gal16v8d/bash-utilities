@@ -40,6 +40,7 @@ git clone git@bitbucket.org:gal16v8d/key-manager-react.git
 git clone git@bitbucket.org:gal16v8d/key-manager-svc.git
 git clone git@bitbucket.org:gal16v8d/knight-tour.git
 git clone git@bitbucket.org:gal16v8d/mail-util.git
+git clone git@bitbucket.org:gal16v8d/mock-server.git
 git clone git@bitbucket.org:gal16v8d/morse-app.git
 git clone git@bitbucket.org:gal16v8d/parqueadero.git
 git clone git@bitbucket.org:gal16v8d/pc-stock.git
