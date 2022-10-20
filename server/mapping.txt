@@ -14,12 +14,12 @@
   eureka-server             8761
   j2ee                      8080
   jeeservice                8080
+  flag-service              3001
   fruit-app                 5000
   fx-course-app             8093
   gateway-svc               8762
   key-manager-svc           8095
   key-manager-react         3000
-  nestjs-sample             3000
   parqueadero               8099
   testmvc                   8080
   thorntail-demomongo       8080
