@@ -21,6 +21,7 @@
   key-manager-svc           8095
   key-manager-react         3000
   parqueadero               8099
+  pvz-svc                   8000
   testmvc                   8080
   thorntail-demomongo       8080
   youtubebot                8096
