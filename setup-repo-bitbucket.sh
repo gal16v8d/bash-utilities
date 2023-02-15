@@ -26,6 +26,7 @@ git clone git@bitbucket.org:gal16v8d/fruit-app.git
 git clone git@bitbucket.org:gal16v8d/fx-course-app.git
 git clone git@bitbucket.org:gal16v8d/gateway-svc.git
 git clone git@bitbucket.org:gal16v8d/gui-util.git
+git clone git@bitbucket.org:gal16v8d/gsdd-parent.git
 git clone git@bitbucket.org:gal16v8d/hackerrank.git
 git clone git@bitbucket.org:gal16v8d/j2ee.git
 git clone git@bitbucket.org:gal16v8d/jasper-util.git

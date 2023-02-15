@@ -1,6 +1,7 @@
 git clone git@github.com:gal16v8d/dw1-svc.git
 git clone git@github.com:gal16v8d/dw1-ui.git
 git clone git@github.com:gal16v8d/flag-svc.git
+git clone git@github.com:gal16v8d/flag-ui.git
 git clone git@github.com:gal16v8d/gal16v8d.git
 git clone git@github.com:gal16v8d/python-basics.git
 git clone git@github.com:gal16v8d/pvz-svc.git
