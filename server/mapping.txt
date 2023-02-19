@@ -12,6 +12,8 @@
   dw2-svc                   8094
   earthquake-svc            8092
   eureka-server             8761
+  flag-svc                  3001
+  flag-ui                   4200
   j2ee                      8080
   jeeservice                8080
   flag-service              3001
