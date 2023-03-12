@@ -10,7 +10,6 @@ git clone git@bitbucket.org:gal16v8d/cloud-rest-client.git
 git clone git@bitbucket.org:gal16v8d/conciliador.git
 git clone git@bitbucket.org:gal16v8d/config-server.git
 git clone git@bitbucket.org:gal16v8d/constant-util.git
-git clone git@bitbucket.org:gal16v8d/cypher-util.git
 git clone git@bitbucket.org:gal16v8d/db-util.git
 git clone git@bitbucket.org:gal16v8d/demomongo.git
 git clone git@bitbucket.org:gal16v8d/devdockervaadin.git

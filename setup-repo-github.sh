@@ -1,3 +1,4 @@
+git clone git@github.com:gal16v8d/cipher-util.git
 git clone git@github.com:gal16v8d/dw1-svc.git
 git clone git@github.com:gal16v8d/dw1-ui.git
 git clone git@github.com:gal16v8d/flag-svc.git
