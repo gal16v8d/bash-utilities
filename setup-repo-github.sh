@@ -6,5 +6,6 @@ git clone git@github.com:gal16v8d/flag-ui.git
 git clone git@github.com:gal16v8d/gal16v8d.git
 git clone git@github.com:gal16v8d/python-basics.git
 git clone git@github.com:gal16v8d/pvz-svc.git
+git clone git@github.com:gal16v8d/pvz-ui.git
 git clone git@github.com:gal16v8d/testmvc.git
 git clone git@github.com:JessicaJSI/hyperblog.git
