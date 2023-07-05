@@ -58,6 +58,7 @@ git clone git@github.com:gal16v8d/python-basics.git
 git clone git@github.com:gal16v8d/qr-app.git
 git clone git@github.com:gal16v8d/rabbitmq.git
 git clone git@github.com:gal16v8d/redis.git
+git clone git@github.com:gal16v8d/scrapper-svc.git
 git clone git@github.com:gal16v8d/serenity-bdd.git
 git clone git@github.com:gal16v8d/sort.git
 git clone git@github.com:gal16v8d/testmvc.git
@@ -65,6 +66,5 @@ git clone git@github.com:gal16v8d/test-process.git
 git clone git@github.com:gal16v8d/thorntail-demo.git
 git clone git@github.com:gal16v8d/validator-util.git
 git clone git@github.com:gal16v8d/videoplayer.git
-git clone git@github.com:gal16v8d/youtube-bot.git
 git clone git@github.com:gal16v8d/xls-util.git
 git clone git@github.com:JessicaJSI/hyperblog.git
